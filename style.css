@@ -111,14 +111,14 @@
 #two
 {
     grid-column: 1/2;
-    background-image: url(./download.jfif);
+    background-image: url(./images/download.jfif);
     background-size: cover;
     background-repeat: no-repeat;
 }
 #three
 {
     grid-column: 2/3;
-    background-image: url(./download\ \(1\).jfif);
+    background-image: url(./images/download\ \(1\).jfif);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -126,14 +126,14 @@
 #four
 {
     grid-column: 3/4; 
-    background-image: url(./images.jfif);
+    background-image: url(./images/images.jfif);
     background-size: cover;
     background-repeat: no-repeat;
 }
 #five
 {
     grid-column: 1/2;
-    background-image: url(./images\ \(1\).jfif);
+    background-image: url(./images/images\ \(1\).jfif);
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -141,14 +141,14 @@
 #six
 {
     grid-column: 2/3;
-    background-image: url(./images\ \(2\).jfif);
+    background-image: url(./images/images\ \(2\).jfif);
     background-size: cover;
     background-repeat: no-repeat;
 }
 #seven
 {
     grid-column: 3/4;
-    background-image: url(./images\ \(3\).jfif);
+    background-image: url(./images/images\ \(3\).jfif);
     background-size: cover;
     background-repeat: no-repeat;
 }
